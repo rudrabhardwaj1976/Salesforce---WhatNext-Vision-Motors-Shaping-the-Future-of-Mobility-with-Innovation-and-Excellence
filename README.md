@@ -1,30 +1,38 @@
 # Salesforce---WhatNext-Vision-Motors-Shaping-the-Future-of-Mobility-with-Innovation-and-Excellence
 WhatsNext Vision Motors – Shaping the Future of Mobility with Innovation and Excellence
+
 Enhancing Customer Engagement & Operational Efficiency in Modern Auto Retail
+
 This initiative highlights the transformation journey of WhatsNext Vision Motors through the integration of Salesforce. As a trailblazer in automotive innovation, the company utilizes this CRM-driven solution to simplify internal operations, automate essential tasks, and ensure a smooth end-to-end customer experience—from initial inquiry to final vehicle delivery.
 
 ——————————————————————————————
 
 Project Overview
+
 With Salesforce at its core, WhatsNext Vision Motors is able to:
+
 •	Consolidate critical data across vehicles, dealerships, and customers in one centralized system
-•	Streamline key workflows including order handling, dealer allocation, and inventory checks
+•	Streamline key workflows including order handling, dealer allocation, and inventory check
 •	Offer real-time visibility for sales, service, and inventory departments
 •	Foster a transparent and engaging experience for customers through timely updates and clear communication
+
 Ultimate Aim: To create a seamless, agile, and customer-first automotive retail ecosystem.
 
 ——————————————————————————————
 
 Objectives
 The primary goal behind developing this CRM system is to equip WhatsNext Vision Motors with an integrated solution to oversee the complete automotive retail cycle—from handling customer queries to vehicle delivery and post-sale services. By digitizing major business processes and consolidating information, the CRM is designed to:
+
 •	Boost customer satisfaction
 •	Minimize manual intervention and related errors
 •	Promote decisions backed by real-time data
+
 This directly translates into more efficient customer engagement, simplified booking processes, and enhanced business growth and retention.
 
 —————————————————————————————
 
 Phase 1: Requirement Gathering & Strategic Planning
+
 •	Understanding Business Needs:
 The CRM initiative was aimed at addressing inefficiencies in handling vehicle stock, customer records, dealer coordination, and service interactions. It resolves issues like manual order handling, absence of real-time inventory data, and inconsistent communication across departments.
 •	Outlining Scope and Goals:
@@ -34,6 +42,7 @@ The solution included tailored Salesforce objects for managing cars, dealers, cu
 ________________________________________
 
 Phase 2: Backend Development & Platform Setup
+
 •	Establishing Development Framework:
 Salesforce sandbox environments were configured with integrated version control systems and deployment pipelines to enable secure development and release cycles.
 •	Custom Configuration & Business Logic Automation:
@@ -44,6 +53,7 @@ Apex code, including triggers for assigning dealers and validating stock, was cr
 ________________________________________
 
 Phase 3: Frontend Customization & User Experience Design
+
 •	Lightning Application Configuration:
 A tailored Lightning App was created via App Manager to offer a smooth, user-friendly interface.
 •	Dynamic Interface Layouts:
@@ -60,6 +70,7 @@ Modular Lightning Pages were created to support intuitive, task-oriented workflo
 ________________________________________
 
 Phase 4: Data Migration, Quality Assurance & Security Controls
+
 •	Legacy Data Import:
 Tools like Data Loader and Data Import Wizard were used to transition historical data into the new system.
 •	Data Integrity Measures:
@@ -74,6 +85,7 @@ Thorough test cases were created to evaluate each module (booking, approvals, au
 ________________________________________
 
 Phase 5: Release, Documentation & Post-Launch Support
+
 •	Deployment Mechanism:
 Components were migrated from development to production using Change Sets, with version control tracking all modifications.
 •	Ongoing Support & Feedback Loops:
@@ -94,6 +106,7 @@ VEHICLE_SERVICE_REQUEST__C	Tracks service requests	Related to Customer & Vehicle
 ——————————————————————————————
 
 °Fields & Relationships
+
 1.Vehicle c
 -	Vehicle_Name c (Text)
 -	Vehicle_Model c (Picklist: Sedan, SUV, EV, etc.)
