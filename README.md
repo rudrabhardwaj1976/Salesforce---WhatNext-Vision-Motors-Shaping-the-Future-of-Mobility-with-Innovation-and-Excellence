@@ -214,7 +214,7 @@ B.Tech in Computer Science with Specialization in Artificial Intelligence Email:
 ——————————————————————————————
 
 Project Links
--	GitHub Repository: https://github.com/sidhantkaistha2004/Salesforce---WhatNext- Vision-Motors-Shaping-the-Future-of-Mobility-with-Innovation-and-Excellence
+-	GitHub Repository: [https://github.com/rudrabhardwaj1976/Salesforce---WhatNext-Vision-Motors-Shaping-the-Future-of-Mobility-with-Innovation-and-Excellence]
 -	Demo Video: Uploaded the link at the skillwallet Salesforce.
 
 ——————————————————————————————
