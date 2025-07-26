@@ -170,13 +170,14 @@ Testing Approach
 
 Screenshots
 -	Folder Structure for Screenshots:
+
 WhatsNext Vision Motors/
-├── Data Management-Objects/
-├── Data Management-Tabs/
-├── Data Management-App Manager/
-├── Data Management-Fields/
-├── Automation-Flows/
-└── Apex and Batch Class/
+  ├── Data Management-Objects/
+  ├── Data Management-Tabs/
+  ├── Data Management-App Manager/
+  ├── Data Management-Fields/
+  ├── Automation-Flows/
+  └── Apex and Batch Class/
 -	For each Salesforce feature (objects, flows, validation rules, etc.), relevant screenshots are provided in the respective folders.
 -	Each automation (validation rule, approval process, flow) is briefly described in the 
 documentation.
