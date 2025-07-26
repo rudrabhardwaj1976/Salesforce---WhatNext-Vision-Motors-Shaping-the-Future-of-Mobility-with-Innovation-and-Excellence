@@ -2,7 +2,9 @@
 WhatsNext Vision Motors – Shaping the Future of Mobility with Innovation and Excellence
 Enhancing Customer Engagement & Operational Efficiency in Modern Auto Retail
 This initiative highlights the transformation journey of WhatsNext Vision Motors through the integration of Salesforce. As a trailblazer in automotive innovation, the company utilizes this CRM-driven solution to simplify internal operations, automate essential tasks, and ensure a smooth end-to-end customer experience—from initial inquiry to final vehicle delivery.
+
 ——————————————————————————————
+
 Project Overview
 With Salesforce at its core, WhatsNext Vision Motors is able to:
 •	Consolidate critical data across vehicles, dealerships, and customers in one centralized system
@@ -10,13 +12,16 @@ With Salesforce at its core, WhatsNext Vision Motors is able to:
 •	Offer real-time visibility for sales, service, and inventory departments
 •	Foster a transparent and engaging experience for customers through timely updates and clear communication
 Ultimate Aim: To create a seamless, agile, and customer-first automotive retail ecosystem.
+
 ——————————————————————————————
+
 Objectives
 The primary goal behind developing this CRM system is to equip WhatsNext Vision Motors with an integrated solution to oversee the complete automotive retail cycle—from handling customer queries to vehicle delivery and post-sale services. By digitizing major business processes and consolidating information, the CRM is designed to:
 •	Boost customer satisfaction
 •	Minimize manual intervention and related errors
 •	Promote decisions backed by real-time data
 This directly translates into more efficient customer engagement, simplified booking processes, and enhanced business growth and retention.
+
 —————————————————————————————
 
 Phase 1: Requirement Gathering & Strategic Planning
@@ -27,6 +32,7 @@ The project aimed to unify all relevant data—vehicles, dealers, and clients—
 •	Designing the Data and Security Architecture:
 The solution included tailored Salesforce objects for managing cars, dealers, customers, bookings, test drives, and service requests. Field-level access, user profiles, roles, and sharing configurations were implemented to protect data and ensure compliance.
 ________________________________________
+
 Phase 2: Backend Development & Platform Setup
 •	Establishing Development Framework:
 Salesforce sandbox environments were configured with integrated version control systems and deployment pipelines to enable secure development and release cycles.
@@ -34,7 +40,9 @@ Salesforce sandbox environments were configured with integrated version control 
 The platform was enhanced with custom objects and fields based on the defined data model. Validation rules maintained data accuracy, while workflows, process builders, flows, and approval processes automated various operations.
 •	Coding with Apex & Asynchronous Processing:
 Apex code, including triggers for assigning dealers and validating stock, was created. Batch Apex handled large-scale nightly updates, and asynchronous methods ensured smooth processing of high data volumes.
+
 ________________________________________
+
 Phase 3: Frontend Customization & User Experience Design
 •	Lightning Application Configuration:
 A tailored Lightning App was created via App Manager to offer a smooth, user-friendly interface.
@@ -48,7 +56,9 @@ Custom dashboards and real-time reports offered valuable insights into key opera
 Interactive Lightning Web Components (LWCs) were developed to enhance user engagement and functionality.
 •	Lightning Page Configuration:
 Modular Lightning Pages were created to support intuitive, task-oriented workflows.
+
 ________________________________________
+
 Phase 4: Data Migration, Quality Assurance & Security Controls
 •	Legacy Data Import:
 Tools like Data Loader and Data Import Wizard were used to transition historical data into the new system.
@@ -60,7 +70,9 @@ A comprehensive access model, including roles, role hierarchies, profiles, permi
 Custom test classes were developed to validate the logic behind triggers and classes, promoting robust code quality.
 •	System Testing Approach:
 Thorough test cases were created to evaluate each module (booking, approvals, automation, flows, etc.). Screenshots of expected versus actual results were documented for every scenario.
+
 ________________________________________
+
 Phase 5: Release, Documentation & Post-Launch Support
 •	Deployment Mechanism:
 Components were migrated from development to production using Change Sets, with version control tracking all modifications.
@@ -135,12 +147,13 @@ VALIDATION RULES	Data integrity at the UI level
 SCHEDULED APEX	Automate nightly updates for inventory/orders
 
 ——————————————————————————————
+
 Testing Approach
 -	Test cases were created for all major features, including booking creation, approval processes, automatic task creation, flows, and triggers.
 -	Apex test classes ensure code coverage and reliability.
 -	Manual and automated testing performed for flows, reports, and dashboards.
-—————————————————————————————
 
+—————————————————————————————
 
 Screenshots
 -	Folder Structure for Screenshots:
@@ -154,12 +167,16 @@ WhatsNext Vision Motors/
 -	For each Salesforce feature (objects, flows, validation rules, etc.), relevant screenshots are provided in the respective folders.
 -	Each automation (validation rule, approval process, flow) is briefly described in the 
 documentation.
+
 ——————————————————————————————
+
 Security Measures
 To ensure robust data protection and proper access control across the CRM:
 •	A structured access system was enforced using profiles, roles, role hierarchies, permission sets, and sharing rules.
 •	Data quality and reliability were maintained through field history tracking, duplicate detection mechanisms, and matching rules.
+
 ________________________________________
+
 Planned Future Enhancements
 The CRM system lays the foundation for further advancements, with potential additions including:
 •	Smart AI-based chatbots to assist customers in real-time
@@ -172,16 +189,20 @@ Throughout the development of this project, the following skills and insights we
 •	Applying validation rules and error handling to ensure data integrity
 •	Designing modular and intuitive Lightning applications for improved user experience
 •	Leveraging batch processing and asynchronous Apex to handle large datasets efficiently
+
 ________________________________________
+
 Author
 Rudra Bhardwaj
 Graphic Era Deemed To Be University
 B.Tech in Computer Science with Specialization in Artificial Intelligence Email: rudrabhardwaj1976@gmail.com
+
 ——————————————————————————————
 
 Project Links
 -	GitHub Repository: https://github.com/sidhantkaistha2004/Salesforce---WhatNext- Vision-Motors-Shaping-the-Future-of-Mobility-with-Innovation-and-Excellence
 -	Demo Video: Uploaded the link at the skillwallet Salesforce.
+
 ——————————————————————————————
 
 License
